@@ -1,0 +1,17 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.test.js",
+  "scripts": {
+    "test": "jest --verbose --watch-All"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.7.1",
+    "socket.io-client": "^2.2.0",
+    "winston": "^2.4.4"
+  }
+}
